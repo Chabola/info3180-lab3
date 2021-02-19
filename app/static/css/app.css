@@ -1,3 +1,25 @@
 body {
     padding-top: 5rem;
 }
+hr {
+	border-top: 1px solid black;
+}
+#middle{
+	width:350px;
+}
+#last{
+	width:350px;
+	height:100px;
+}
+#btn{
+	padding: 5px 15px;
+	background-color: lightblue;
+	border:none;
+}
+.req{
+	color: crimson;
+}
+.confirm{
+	margin-left:-30px;
+	color: 	#32CD32;
+}
